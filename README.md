@@ -1,2 +1,2 @@
 # brickblast
-Brick Blast 8-Bit privacy &amp; support
+Brick Blast 8-Bit privacy &amp; support.
